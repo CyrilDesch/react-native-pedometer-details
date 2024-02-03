@@ -1,3 +1,5 @@
+# Not maintained
+
 # react-native-pedometer-details
 
 react native pedometer, The extension is implemented for Android. I was going to do the same thing on IOS. Fortunately, `react-native-health` realized my idea very well. `react-native-pedometer-details` performs well on Android. If you have problems, you can find me on GitHub. 
